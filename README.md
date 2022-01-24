@@ -1,5 +1,14 @@
 # professional-README-Generator
 
+## Table of Contents
+* [Description](#description)
+* [User Story](#userstory)
+* [Acceptance Criteria](#acceptancecriteria)
+* [Table of Contents](#tableofcontents)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Questions](#questions)
+
 ## Description
 - This is a command line interface application which creates a README file for your application repositories.
 
@@ -24,17 +33,6 @@
 - THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 - WHEN I click on the links in the Table of Contents
 - THEN I am taken to the corresponding section of the README
-
-
-
-## Table of Contents
-* [Description](#description)
-* [User Story](#userstory)
-* [Acceptance Criteria](#acceptancecriteria)
-* [Table of Contents](#tableofcontents)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Questions](#questions)
 
 ## Installation
 - npm init
