@@ -48,7 +48,7 @@
 ## Questions
 Contact me with any questions:
 - amdworkspace@gmail.com
-- githuh.com/AMDWorkspace
+- https://github.com/AMDWorkspace
 
 ## Video Walkthrough
 -
