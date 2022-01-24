@@ -42,9 +42,6 @@
 - Run 'node index.js' in the command line
 - Answer the following questions when prompted
 
-## Tests
--
-
 ## Questions
 Contact me with any questions:
 - amdworkspace@gmail.com
