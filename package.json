@@ -1,5 +1,21 @@
 {
+  "name": "professional-README-Generator",
+  "version": "1.0.0",
+  "description": "A node application prompts users to answer questions and will generate a professional README file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Do",
+  "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^6.3.1",
+  "bugs": {
+    "url": "https://github.com/amdworkspace/professional-README-Generator/issues"
+  },
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amdworkspace/professional-README-Generator.git"
   }
 }

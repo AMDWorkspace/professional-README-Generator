@@ -28,25 +28,29 @@
 
 
 ## Table of Contents
--
+* [Description](#description)
+* [User Story](#userstory)
+* [Acceptance Criteria](#acceptancecriteria)
+* [Table of Contents](#tableofcontents)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Questions](#questions)
 
 ## Installation
--
+- npm init
+- npm install inquirer
 
 ## Usage
--
-
-## License
--
-
-## Contributing
--
+- Run 'node index.js' in the command line
+- Answer the following questions when prompted
 
 ## Tests
 -
 
 ## Questions
--
+Contact me with any questions:
+- amdworkspace@gmail.com
+- githuh.com/AMDWorkspace
 
 ## Video Walkthrough
 -
