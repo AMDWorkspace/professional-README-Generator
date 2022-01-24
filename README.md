@@ -1,7 +1,7 @@
 # professional-README-Generator
 
 ## Description
--
+- This is a command line interface application which creates a README file for your application repositories.
 
 ## User Story
 - AS A developer
